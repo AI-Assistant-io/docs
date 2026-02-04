@@ -9,14 +9,14 @@
   },
   "favicon": "/favicon.ico",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Release Notes",
+        "group": "Release Notes",
         "groups": [
           {
             "group": "Engineering",
-            "pages": ["release-notes/engineering/index"],
-            "groups": [
+            "pages": [
+              "release-notes/engineering/index",
               {
                 "group": "2026-01",
                 "pages": [
@@ -44,8 +44,8 @@
           },
           {
             "group": "AI Chat",
-            "pages": ["release-notes/ai-chat/index"],
-            "groups": [
+            "pages": [
+              "release-notes/ai-chat/index",
               {
                 "group": "2026-01",
                 "pages": [
@@ -62,8 +62,8 @@
           },
           {
             "group": "Platform Config",
-            "pages": ["release-notes/platform-config/index"],
-            "groups": [
+            "pages": [
+              "release-notes/platform-config/index",
               {
                 "group": "2026-01",
                 "pages": [
