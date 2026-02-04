@@ -59,6 +59,20 @@
                 ]
               }
             ]
+          },
+          {
+            "group": "Platform Config",
+            "pages": ["release-notes/platform-config/index"],
+            "groups": [
+              {
+                "group": "2026-01",
+                "pages": [
+                  "release-notes/platform-config/2026-01/v1.2.0",
+                  "release-notes/platform-config/2026-01/v1.1.0",
+                  "release-notes/platform-config/2026-01/v1.0.0"
+                ]
+              }
+            ]
           }
         ]
       }
