@@ -1,0 +1,9 @@
+/* Custom styles for AI Assistant docs */
+
+/* Make the logo bigger (default is ~24px) */
+header a img,
+nav a img {
+  height: 40px !important;
+  max-height: 40px !important;
+  width: auto !important;
+}
