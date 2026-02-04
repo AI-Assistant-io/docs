@@ -43,6 +43,19 @@
 - Commit frequently throughout development
 - NEVER skip or disable pre-commit hooks
 
+## Release Notes Source Locations
+When asked to pull in release notes, check these source repos:
+
+| Product | Source Path |
+|---------|-------------|
+| Engineering | D:\repos\engineering\release_notes |
+| AI Chat | D:\repos\ai-chat\release-notes |
+| Platform Config | D:\repos\platform_config\release_notes |
+
+**Structure:** Organize by year-month folders (e.g., `2026-01/v1.0.0.md`)
+**Frontmatter:** Always add `title` and `date` fields
+**Navigation:** Update docs.json with nested year-month groups
+
 ## Do not
 - Skip frontmatter on any MDX file
 - Use absolute URLs for internal links
