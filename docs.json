@@ -18,6 +18,7 @@
         "group": "Release Notes",
         "icon": "newspaper",
         "pages": [
+          "release-notes/guide",
           {
             "group": "Engineering",
             "icon": "gears",
