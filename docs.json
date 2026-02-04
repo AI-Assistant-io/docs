@@ -17,19 +17,32 @@
             "group": "Engineering",
             "pages": [
               "release-notes/engineering/index",
-              "release-notes/engineering/v2.0.0",
-              "release-notes/engineering/v1.9.1",
-              "release-notes/engineering/v1.9.0",
-              "release-notes/engineering/v1.8.1",
-              "release-notes/engineering/v1.8.0",
-              "release-notes/engineering/v1.7.0",
-              "release-notes/engineering/v1.6.0",
-              "release-notes/engineering/v1.5.0",
-              "release-notes/engineering/v1.4.0",
-              "release-notes/engineering/v1.3.0",
-              "release-notes/engineering/v1.2.0",
-              "release-notes/engineering/v1.1.0",
-              "release-notes/engineering/v1.0.0"
+              "release-notes/engineering/2026-01/v2.0.0",
+              "release-notes/engineering/2026-01/v1.9.1",
+              "release-notes/engineering/2026-01/v1.9.0",
+              "release-notes/engineering/2026-01/v1.8.1",
+              "release-notes/engineering/2026-01/v1.8.0",
+              "release-notes/engineering/2025-01/v1.7.0",
+              "release-notes/engineering/2025-01/v1.6.0",
+              "release-notes/engineering/2025-01/v1.5.0",
+              "release-notes/engineering/2025-01/v1.4.0",
+              "release-notes/engineering/2025-01/v1.3.0",
+              "release-notes/engineering/2025-01/v1.2.0",
+              "release-notes/engineering/2025-01/v1.1.0",
+              "release-notes/engineering/2025-01/v1.0.0"
+            ]
+          },
+          {
+            "group": "AI Chat",
+            "pages": [
+              "release-notes/ai-chat/index",
+              "release-notes/ai-chat/2026-01/v1.8.0",
+              "release-notes/ai-chat/2026-01/v1.6.0",
+              "release-notes/ai-chat/2026-01/v1.5.0",
+              "release-notes/ai-chat/2026-01/v1.4.0",
+              "release-notes/ai-chat/2026-01/v1.3.0",
+              "release-notes/ai-chat/2026-01/v1.2.0",
+              "release-notes/ai-chat/2026-01/v1.1.0"
             ]
           }
         ]
