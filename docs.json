@@ -16,66 +16,50 @@
       },
       {
         "group": "Release Notes",
-        "groups": [
+        "icon": "newspaper",
+        "pages": [
           {
             "group": "Engineering",
+            "icon": "gears",
             "pages": [
               "release-notes/engineering/index",
-              {
-                "group": "2026-01",
-                "pages": [
-                  "release-notes/engineering/2026-01/v2.0.0",
-                  "release-notes/engineering/2026-01/v1.9.1",
-                  "release-notes/engineering/2026-01/v1.9.0",
-                  "release-notes/engineering/2026-01/v1.8.1",
-                  "release-notes/engineering/2026-01/v1.8.0"
-                ]
-              },
-              {
-                "group": "2025-01",
-                "pages": [
-                  "release-notes/engineering/2025-01/v1.7.0",
-                  "release-notes/engineering/2025-01/v1.6.0",
-                  "release-notes/engineering/2025-01/v1.5.0",
-                  "release-notes/engineering/2025-01/v1.4.0",
-                  "release-notes/engineering/2025-01/v1.3.0",
-                  "release-notes/engineering/2025-01/v1.2.0",
-                  "release-notes/engineering/2025-01/v1.1.0",
-                  "release-notes/engineering/2025-01/v1.0.0"
-                ]
-              }
+              "release-notes/engineering/2026-01/v2.0.0",
+              "release-notes/engineering/2026-01/v1.9.1",
+              "release-notes/engineering/2026-01/v1.9.0",
+              "release-notes/engineering/2026-01/v1.8.1",
+              "release-notes/engineering/2026-01/v1.8.0",
+              "release-notes/engineering/2025-01/v1.7.0",
+              "release-notes/engineering/2025-01/v1.6.0",
+              "release-notes/engineering/2025-01/v1.5.0",
+              "release-notes/engineering/2025-01/v1.4.0",
+              "release-notes/engineering/2025-01/v1.3.0",
+              "release-notes/engineering/2025-01/v1.2.0",
+              "release-notes/engineering/2025-01/v1.1.0",
+              "release-notes/engineering/2025-01/v1.0.0"
             ]
           },
           {
             "group": "AI Chat",
+            "icon": "comments",
             "pages": [
               "release-notes/ai-chat/index",
-              {
-                "group": "2026-01",
-                "pages": [
-                  "release-notes/ai-chat/2026-01/v1.8.0",
-                  "release-notes/ai-chat/2026-01/v1.6.0",
-                  "release-notes/ai-chat/2026-01/v1.5.0",
-                  "release-notes/ai-chat/2026-01/v1.4.0",
-                  "release-notes/ai-chat/2026-01/v1.3.0",
-                  "release-notes/ai-chat/2026-01/v1.2.0",
-                  "release-notes/ai-chat/2026-01/v1.1.0"
-                ]
-              }
+              "release-notes/ai-chat/2026-01/v1.8.0",
+              "release-notes/ai-chat/2026-01/v1.6.0",
+              "release-notes/ai-chat/2026-01/v1.5.0",
+              "release-notes/ai-chat/2026-01/v1.4.0",
+              "release-notes/ai-chat/2026-01/v1.3.0",
+              "release-notes/ai-chat/2026-01/v1.2.0",
+              "release-notes/ai-chat/2026-01/v1.1.0"
             ]
           },
           {
             "group": "Platform Config",
+            "icon": "server",
             "pages": [
               "release-notes/platform-config/index",
-              {
-                "group": "2026-01",
-                "pages": [
-                  "release-notes/platform-config/2026-01/v1.2.0",
-                  "release-notes/platform-config/2026-01/v1.1.0",
-                  "release-notes/platform-config/2026-01/v1.0.0"
-                ]
-              }
+              "release-notes/platform-config/2026-01/v1.2.0",
+              "release-notes/platform-config/2026-01/v1.1.0",
+              "release-notes/platform-config/2026-01/v1.0.0"
             ]
           }
         ]
